@@ -14,7 +14,7 @@ This repo contains the official **PyTorch** implementation of ComP for balanced 
 </h5>
 
 ## 🔥 News
-- [2025/11/08]  🔥 Our paper has been accepted by **AAAI Conference on Artificial Intelligence** 2026 as an **🎤oral paper**!.
+- [2025/11/08]  🔥 Our paper has been accepted by **AAAI Conference on Artificial Intelligence** 2026 as an **oral paper**!
 
 
 ## 📖 Introduction
@@ -40,7 +40,7 @@ Although great progress have been made, current IMER methods still suffer from s
 
 ### Results
 
-The experimental results on $4$ datasets against SOTA methods under different missing rates are listed below:
+The experimental results on 4 datasets against SOTA methods under different missing rates are listed below:
  <p align="center">
     <img src="figures/Results-IEMOCAP.png" width= "900">
     <img src="figures/Results-CMU.png" width= "900">
@@ -86,7 +86,7 @@ python -u ComP_IMER/train_mr.py --dataset=CMUMOSI --audio-feature=wav2vec-large-
 
 ## 💖 Acknowledgements
 
-This code is partially built on the top of [GCNet](https://github.com/zeroQiaoba/GCNet) and [MoMKE](https://github.com/wxxv/MoMKE). We would like to present our sincere thanks to the authors for their contributions to the community!
+This code is partially built on top of [GCNet](https://github.com/zeroQiaoba/GCNet) and [MoMKE](https://github.com/wxxv/MoMKE). We would like to present our sincere thanks to the authors for their contributions to the community!
 
 <!-- ## 📝 Citation
 
@@ -108,4 +108,5 @@ url={https://openreview.net/forum?id=kN6MFmKUSK}
 If you have any questions, please feel free to contact the authors. 
 
 **Wen-Jue He** (First author): [he_wenjue@163.com](he_wenjue@163.com)
+
 **Zheng Zhang** (Corresponding author): [darrenzz219@gmail.com](darrenzz219@gmail.com)
