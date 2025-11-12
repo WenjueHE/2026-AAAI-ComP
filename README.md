@@ -78,7 +78,7 @@ data
 ### Train models
 You can train the model with data at different missing rates by running `train_mr.py`. Here is an example:
 ```
-python -u ComP_IMER/train_mr.py --dataset=CMUMOSI --audio-feature=wav2vec-large-c-UTT 
+python -u ComP/train_mr.py --dataset=CMUMOSI --audio-feature=wav2vec-large-c-UTT 
     --text-feature=deberta-large-4-UTT --video-feature=manet_UTT --seed=66 --batch-size=32 
     --epoch=300 --lr=0.0001 --hidden=256 --depth=4 --num_heads=2 --drop_rate=0.5 
     --attn_drop_rate=0.0 --stage_epoch=150 --gpu=2 --mask_rate=0.7 --lbd=0.3
