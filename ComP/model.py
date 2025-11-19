@@ -83,7 +83,7 @@ class PromptFormer_2(nn.Module):
 
         prompt = self.proj_d(prompt) # [batch, seqlen, prompt_dim]
         res = self.proj_prompt(x)
-        prompt = prompt + res # [batch, seqlen, prompt_dim] ## proj_prompt这根线不能丢！！！
+        prompt = prompt + res # [batch, seqlen, prompt_dim] 
 
         return prompt
 
