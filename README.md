@@ -3,7 +3,7 @@
 
 🎆 Welcome to the repo of **ComP**! 🎆
 
-If you feel this work helpful, please support us with your stars⭐ and cite our paper!
+If you find this work helpful, please support us with your stars⭐ and cite our paper!
 
 
 This repo contains the official **PyTorch** implementation of ComP for balanced incomplete multi-modal emotion recognition (IMER).
