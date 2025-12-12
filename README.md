@@ -1,4 +1,4 @@
-# [AAAI-26 Oral] Cross-modal Prompting for Balanced Incomplete Multi-modal Emotion Recognition
+# [AAAI-26] Cross-modal Prompting for Balanced Incomplete Multi-modal Emotion Recognition
 <h5 align="center">
 
 🎆 Welcome to the repo of **ComP**! 🎆
@@ -21,7 +21,7 @@ This repo contains the official **PyTorch** implementation of ComP for balanced 
 
 ### Motivation
 
-Although great progress have been made, current IMER methods still suffer from sever modality imbalance problem that hinders better performance. Specifically, such problem can be summarized as:
+Although great progress has been made, current IMER methods still suffer from severe modality imbalance problem that hinders better performance. Specifically, such a problem can be summarized as:
 1. **Modality performance gap**, *i.e.*, performances of different modalities vary greatly
 2. **Modality under-optimization**, *i.e.*, modality-specific performance degrades after multi-modal co-training.
  <p align="center">
