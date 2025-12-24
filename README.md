@@ -3,6 +3,8 @@
 
 🎆 Welcome to the repo of **ComP**! 🎆
 
+Paper Link: [https://arxiv.org/pdf/2512.11239](https://arxiv.org/pdf/2512.11239)
+
 If you find this work helpful, please support us with your stars⭐ and cite our paper!
 
 
@@ -88,20 +90,19 @@ python -u ComP/train_mr.py --dataset=CMUMOSI --audio-feature=wav2vec-large-c-UTT
 
 This code is partially built on top of [GCNet](https://github.com/zeroQiaoba/GCNet) and [MoMKE](https://github.com/wxxv/MoMKE). We would like to present our sincere thanks to the authors for their contributions to the community!
 
-<!-- ## 📝 Citation
+## 📝 Citation
 
-If you find this repo helpful, please consider citing us.
+If you find this repo helpful, please consider citing this paper:
 
 ```latex
-@inproceedings{
-meng2025polaformer,
-title={PolaFormer: Polarity-aware Linear Attention for Vision Transformers},
-author={Weikang Meng and Yadan Luo and Xin Li and Dongmei Jiang and Zheng Zhang},
-booktitle={The Thirteenth International Conference on Learning Representations},
-year={2025},
-url={https://openreview.net/forum?id=kN6MFmKUSK}
+@article
+{he2025cross,
+  title={Cross-modal Prompting for Balanced Incomplete Multi-modal Emotion Recognition},
+  author={He, Wen-Jue and Zhu, Xiaofeng and Zhang, Zheng},
+  journal={arXiv preprint arXiv:2512.11239},
+  year={2025}
 }
-``` -->
+``` 
 
 ## 📧 Contact
 
