@@ -60,7 +60,7 @@ The experimental results on 4 datasets against SOTA methods under different miss
 
 ### Data preparation
 
-Download data from Baidu Disk and modify the corresponding paths in the `config.py` file.
+Download data from [Baidu Disk](https://pan.baidu.com/s/12BQqjJlhBltCncMHC8_tzw) (**Code:gjqh**) and modify the corresponding paths in the `config.py` file.
 
 Data should be stored as follows:
 ```
